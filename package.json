@@ -4,8 +4,8 @@
   "description": "",
   "main": "tasks.js",
   "scripts": {
-    "test": "jasmine",
-    "lint": "eslint tasks.js"
+    "test": "npx jasmine твійфайл",
+    "lint": "npx eslint tasks.js"
   },
   "dependencies": {},
   "devDependencies": {
